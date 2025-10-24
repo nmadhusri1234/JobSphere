@@ -82,14 +82,7 @@ Open your browser and visit:
 
 ---
 
-## 🙋‍♀️ Author
 
-**Sindhuja Pyla**
-🔗 [GitHub](https://github.com/sindhupyla)
-🔗 [LeetCode](https://leetcode.com/u/Sindhu_Indus/)
-🔗 [HackerRank](https://www.hackerrank.com/profile/sindhu_pyla)
-
----
 
 ## To run 
  cd the_job_sphere
